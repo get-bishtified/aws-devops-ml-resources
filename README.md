@@ -42,3 +42,7 @@ Want access to the **private GitHub repository** that includes:
 📩 **Contact me to get access to private GitHub repo (paid):**  
 📧 `support@bishtify.com`
 
+🤝 Connect With Me - 📧 [Click here](https://topmate.io/pradeep_singh_bisht)
+🔗 Get Bishtified with:
+Bishtify - Let’s build skills — not just resumes! 🚀
+
