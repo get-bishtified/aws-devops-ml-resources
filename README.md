@@ -38,7 +38,6 @@ Want access to the **private GitHub repository** that includes:
 - **Automation scripts for AWS/ServiceNow integrations**
 - **CloudWatch, IAM, RDS, and EKS deployment modules**
 - **Automate OCR on AWS - Lambda and Textract**
-- Bonus: Slide decks (PPTX), Postman collections, and runbooks
 
 📩 **Contact me to get access to private GitHub repo (paid):**  
 📧 `support@bishtify.com`
