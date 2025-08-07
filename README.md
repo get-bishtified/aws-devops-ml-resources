@@ -33,7 +33,7 @@ This repository includes:
 
 Want access to the **private GitHub repository** that includes:
 
-- Full **Terraform/CDK source code**
+- **Full Terraform/CDK source code**
 - **Reusable Lambda and ECS templates**
 - **Automation scripts for AWS/ServiceNow integrations**
 - **CloudWatch, IAM, RDS, and EKS deployment modules**
