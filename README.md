@@ -17,15 +17,6 @@ This repo is designed for **students, freshers, working professionals, and self-
 
 ---
 
-## 🎥 YouTube Tutorials & Walkthroughs
-
-Most whitepapers and reference designs in this repo are **explained visually** with **hands-on walkthroughs** on the YouTube channel:
-
-📺 **Bishtify – Build Skills, Not Just Resumes**  
-https://www.youtube.com/@getbishtified
-
----
-
 ## 📂 What This Public Repository Contains
 
 - Technical whitepapers (Markdown / PDF)
@@ -62,10 +53,18 @@ Documentation improvements, diagrams, and references are appreciated.
 
 ---
 
-## 📬 Connect
+## 🎥 Learn With YouTube Tutorials
 
-👉 https://topmate.io/pradeep_singh_bisht  
+Each project is **explained step-by-step** on YouTube with visuals and walkthroughs:
+
+🔗 [📺 Bishtify - Build Skills, Not Just Resumes](https://www.youtube.com/@getbishtified) 
+🧠 Subscribe for weekly ML + CloudOps demos.
 
 ---
 
-🚀 **Bishtify — Build Skills, Not Just Resumes**
+📩 **Contact:**  
+📧 `support@bishtify.com`
+
+🤝 Connect With Me - 📧 [Click here](https://topmate.io/pradeep_singh_bisht)
+🔗 Get Bishtified with:
+Bishtify - Let’s build skills — not just resumes! 🚀
